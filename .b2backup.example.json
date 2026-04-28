@@ -1,0 +1,16 @@
+{
+  "keyId": "your-backblaze-key-id",
+  "applicationKey": "your-backblaze-application-key",
+  "bucketId": "your-backblaze-bucket-id",
+  "remotePrefix": "TechSandbox",
+  "outputDirectory": "Backups",
+  "includePaths": [
+    "Config",
+    "Content",
+    "Source",
+    "TechSandbox.uproject",
+    "README.md",
+    ".gitignore",
+    ".gitattributes"
+  ]
+}
